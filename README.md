@@ -1,4 +1,4 @@
-# stackPro-UX-coding-activities
+# StackPro+UX coding activities
 This GitHub repository provides starting and finished code for a full-stack web application built with React, MongoDB, Firebase, and CSS, designed to help developers practice full-stack development.
 
 # Full-Stack Development Practice with React, MongoDB, Firebase, and CSS
