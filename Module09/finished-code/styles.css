@@ -1,0 +1,61 @@
+/* CSS Reset */
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+/* Global Styles */
+body {
+	font-family: Arial, sans-serif;
+	line-height: 1.5;
+}
+
+a {
+	text-decoration: none;
+	color: #333;
+}
+
+ul {
+	list-style: none;
+}
+
+/* Header Styles */
+header {
+	background-color: #333;
+	color: #fff;
+	padding: 20px;
+}
+
+nav ul {
+	display: flex;
+	justify-content: space-between;
+}
+
+nav li {
+	margin-right: 20px;
+}
+
+/* Hero Section Styles */
+#hero {
+	background-image: url('https://via.placeholder.com/1200x600');
+	background-size: cover;
+	color: #fff;
+	padding: 100px;
+	text-align: center;
+}
+
+#hero h1 {
+	font-size: 3em;
+	margin-bottom: 20px;
+}
+
+#hero p {
+	font-size: 1.2em;
+	margin-bottom: 40px;
+}
+
+/* Features Section Styles */
+#features {
+	display:flex;
+}
